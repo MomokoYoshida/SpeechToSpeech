@@ -1,10 +1,10 @@
 {
     "apiKeys": {
-        "languageTranslator": "",
-        "languageTranslatorURL": "",
-        "speechToText": "",
-        "speechToTextURL": "",
-        "textToSpeech": "",
-        "textToSpeechURL": ""
+        "languageTranslator": "csZBYoCvjfVMdPzV0_NFcqWFMnBPzDbImILYFvWk1rx-",
+        "languageTranslatorURL": "https://api.us-south.language-translator.watson.cloud.ibm.com/instances/16db39ed-6cf4-478b-81fb-7d5cb878d050",
+        "speechToText": "olQEt798gcFWH4o_iEydv3Ex0Ciyd0SLUiKjL2llxrDY",
+        "speechToTextURL": "https://api.us-south.speech-to-text.watson.cloud.ibm.com/instances/481d5ee1-62c4-43b5-9539-c5e7276bfa32",
+        "textToSpeech": "bk2cOUkzIwydn6sE5ZR1LUE3mOAvK37hl53LtASYADpv",
+        "textToSpeechURL": "https://api.us-south.text-to-speech.watson.cloud.ibm.com/instances/901048a3-97f4-428d-bc03-6245a2678818"
     }
 }
